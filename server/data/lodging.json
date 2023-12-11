@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Nealley's Kisses",
+    "facility": "Yakidoo",
+    "roomCapacity": 4,
+    "imgUrl": "http://dummyimage.com/180x153.png/dddddd/000000",
+    "location": "Macachín",
+    "price": 332231,
+    "typeId": 4
+  },
+  {
+    "name": "Common Ragwort",
+    "facility": "Wikizz",
+    "roomCapacity": 3,
+    "imgUrl": "http://dummyimage.com/248x157.png/dddddd/000000",
+    "location": "Tempursari Wetan",
+    "price": 264402,
+    "typeId": 4
+  },
+  {
+    "name": "Disc Lichen",
+    "facility": "Flashdog",
+    "roomCapacity": 7,
+    "imgUrl": "http://dummyimage.com/108x107.png/5fa2dd/ffffff",
+    "location": "Muye",
+    "price": 295928,
+    "typeId": 4
+  },
+  {
+    "name": "Rough Bindweed",
+    "facility": "Eabox",
+    "roomCapacity": 4,
+    "imgUrl": "http://dummyimage.com/241x238.png/dddddd/000000",
+    "location": "Fuhai",
+    "price": 291452,
+    "typeId": 2
+  },
+  {
+    "name": "Cottonthistle",
+    "facility": "Zoombox",
+    "roomCapacity": 7,
+    "imgUrl": "http://dummyimage.com/226x145.png/dddddd/000000",
+    "location": "Trollhättan",
+    "price": 299285,
+    "typeId": 2
+  },
+  {
+    "name": "Splitleaf Groundsel",
+    "facility": "Skyble",
+    "roomCapacity": 6,
+    "imgUrl": "http://dummyimage.com/115x100.png/cc0000/ffffff",
+    "location": "Montauban",
+    "price": 329086,
+    "typeId": 1
+  },
+  {
+    "name": "Pringle's Lipfern",
+    "facility": "Yadel",
+    "roomCapacity": 6,
+    "imgUrl": "http://dummyimage.com/115x215.png/dddddd/000000",
+    "location": "Gaphatshwe",
+    "price": 325388,
+    "typeId": 2
+  },
+  {
+    "name": "Annual Desert Milkvetch",
+    "facility": "Voolith",
+    "roomCapacity": 4,
+    "imgUrl": "http://dummyimage.com/247x219.png/ff4444/ffffff",
+    "location": "Los Fresnos",
+    "price": 337999,
+    "typeId": 2
+  },
+  {
+    "name": "Sand Plantain",
+    "facility": "Skipfire",
+    "roomCapacity": 8,
+    "imgUrl": "http://dummyimage.com/145x250.png/ff4444/ffffff",
+    "location": "Xinjie",
+    "price": 317372,
+    "typeId": 3
+  },
+  {
+    "name": "Philippine Pigeonwings",
+    "facility": "Browsebug",
+    "roomCapacity": 5,
+    "imgUrl": "http://dummyimage.com/146x195.png/5fa2dd/ffffff",
+    "location": "Phong Điền",
+    "price": 293388,
+    "typeId": 1
+  },
+  {
+    "name": "San Francisco Campion",
+    "facility": "Skinix",
+    "roomCapacity": 6,
+    "imgUrl": "http://dummyimage.com/166x191.png/5fa2dd/ffffff",
+    "location": "Galūgāh",
+    "price": 273631,
+    "typeId": 3
+  },
+  {
+    "name": "Blair's Wirelettuce",
+    "facility": "Kwimbee",
+    "roomCapacity": 4,
+    "imgUrl": "http://dummyimage.com/136x198.png/cc0000/ffffff",
+    "location": "Kijang",
+    "price": 308542,
+    "typeId": 4
+  },
+  {
+    "name": "Lotus Sweetjuice",
+    "facility": "Mudo",
+    "roomCapacity": 8,
+    "imgUrl": "http://dummyimage.com/171x134.png/cc0000/ffffff",
+    "location": "Koryčany",
+    "price": 287219,
+    "typeId": 1
+  },
+  {
+    "name": "Bodin's Milkvetch",
+    "facility": "Voonyx",
+    "roomCapacity": 8,
+    "imgUrl": "http://dummyimage.com/187x208.png/ff4444/ffffff",
+    "location": "Siguiri",
+    "price": 293700,
+    "typeId": 1
+  },
+  {
+    "name": "Salmon Wildrye",
+    "facility": "Realcube",
+    "roomCapacity": 4,
+    "imgUrl": "http://dummyimage.com/221x199.png/ff4444/ffffff",
+    "location": "Khorosheve",
+    "price": 260637,
+    "typeId": 3
+  },
+  {
+    "name": "Basin Wildrye",
+    "facility": "Fatz",
+    "roomCapacity": 5,
+    "imgUrl": "http://dummyimage.com/102x101.png/cc0000/ffffff",
+    "location": "Kuching",
+    "price": 320760,
+    "typeId": 1
+  },
+  {
+    "name": "Clover Ash",
+    "facility": "Kare",
+    "roomCapacity": 6,
+    "imgUrl": "http://dummyimage.com/160x152.png/cc0000/ffffff",
+    "location": "Wudil",
+    "price": 291485,
+    "typeId": 3
+  },
+  {
+    "name": "Woodfern",
+    "facility": "Dablist",
+    "roomCapacity": 2,
+    "imgUrl": "http://dummyimage.com/110x118.png/cc0000/ffffff",
+    "location": "Puerto Alto",
+    "price": 310369,
+    "typeId": 4
+  },
+  {
+    "name": "Alex's Dock",
+    "facility": "Tagchat",
+    "roomCapacity": 6,
+    "imgUrl": "http://dummyimage.com/207x209.png/ff4444/ffffff",
+    "location": "Quanshang",
+    "price": 279227,
+    "typeId": 2
+  },
+  {
+    "name": "Clustered Lady's Slipper",
+    "facility": "Rhybox",
+    "roomCapacity": 4,
+    "imgUrl": "http://dummyimage.com/149x109.png/cc0000/ffffff",
+    "location": "Bakung",
+    "price": 288307,
+    "typeId": 3
+  }
+]

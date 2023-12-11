@@ -1,0 +1,35 @@
+Lodging
+
+id
+● name: string (validation: required)
+● facility: text (validation: required)
+● roomCapacity: integer (validation: required)
+● imgUrl: string (validation: required, isUrl)
+● authorId
+● location: string (validation: required)
+● price: integer (validation: required, min price (bebas))
+● typeId (validation: required)
+● createdAt : date
+● updatedAt : date
+
+npx sequelize model:generate --name Lodging --attributes name:string,facility:text,roomCapacity:integer,imgUrl:string,authorId:integer,location:string,price:integer,typeId:integer
+
+Type
+
+● id
+● name: string (validation: required)
+
+npx sequelize model:generate --name Type --attributes name:string
+
+
+User
+● id
+● username:string (optional)
+● email:string (validation: required, uniq, email format)
+● password:string (validation: required, length min 5)
+● role:string
+● phoneNumber:string
+● address:string
+
+npx sequelize model:generate --name User --attributes username:string,email:string,password:string,role:string,phoneNumber:string,address:string
+
